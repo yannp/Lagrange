@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viaje en ecoaldeas en España"
+title: "Viaje en ecoaldeas de España"
 author: "Yann Plancqueel"
 categories: journal
 tags: [ecoaldeas]
@@ -9,13 +9,19 @@ image: ecoaldeas/cover9.jpg
 
 ## Introduction
 
-Fernando y Yann, del 6 al 14 de julio 2018. Viaje en coche con noches en las ecoaldeas mismas. Las apuntas que siguen son el resultado de nuestras conversaciones con las personas viviendo en estos sitios y no fue comprobado por ellos, podrían contenir errores.
+Fuimos Fernando y Yann, del 6 al 14 de julio 2018 a visitar ecoaldeas en España para 8 días, dormiendo en estas ecoaldeas. Las apuntas de viaje que siguen son el resultado de nuestras conversaciones con los habitantes de estos sitios y nuestras observaciones. Cuidado que no estaron comprobadas por estas ecoaldeas de ninguna forma y que podrían contenir aproximaciones o errores.
 
 ## Barrio Las Peñas
 
-Al lado de Rubielos de Mora, zona de Montanejos. El proyecto empezó en enero 2017, esta compuesto de 8 personas (5 hombres, 3 mujeres), una edad media de 28 años. Entorno de barranco con muchos arboles, junto a un rio que permite bañarse. Allí pasamos tres noches. El barrio contiene alrededor de 10 pequeñas casas de piedra con tejas tradicionales de barro para la cubertura y piedras para el suelo. Una primera casa fue rehabilitada y esta donde se hace la mayor parte de la vida hasta aquí. Una otra casa fue convertida en un taller para trabajar en buenas condiciones sobre las otras casas, una otra casa pequeña tiene un horno antiguo que se usa para confectionar panes, pizzas y bollerías. El plan que tienen es de rehabilitar todas las casas y de tener una casa en común con una cocina y comedor compartido para juntarse. El pueblo dispone también de una mesa exterior grande dondé comer fuera. Durante nuestra visita estaban instalando un tejado sobre unas de las casas más grandes del pueblo. 
+Se encuentra al lado de Rubielos de Mora, por la zona de Olba. El proyecto empezó por enero 2017, esta compuesto ahora de 8 personas (5 hombres, 3 mujeres) con una edad media de 28 años. La ecoaldea es basada sobre un pueblo antiguo abandonado. El entorno de barranco con muchos arboles, junto a un rio que permite bañarse. Allí pasamos tres noches. El barrio contiene alrededor de 10 pequeñas casas de piedra con tejas tradicionales de barro para la cubertura y piedras para el suelo. Una primera casa fue rehabilitada y esta donde se hace la mayor parte de la vida hasta aquí. Una otra casa fue convertida en un taller para trabajar en buenas condiciones sobre las otras casas, una otra casa pequeña tiene un horno antiguo que se usa para confectionar panes, pizzas y bollerías. El plan que tienen es de rehabilitar todas las casas y de tener una casa en común con una cocina y comedor compartido para juntarse. El pueblo dispone también de una mesa exterior grande dondé comer fuera. Durante nuestra visita estaban instalando un tejado sobre unas de las casas más grandes del pueblo. 
+
+![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+
+![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
 
 El agua viene de una fuente a unos cientos metros que llegua por mangueras y tienen muchas placas solares con baterías. Las decisiones se toman sin modelo aparente, un poco en caos, se habla hasta que una solución que convenga a todas o casi se imponga. Funciona pero probablemente perfectible. Mientras el invierno vivieron momentos dificiles por vivir los 7 personas en una sala única para dormir, cocinar y comer. El proyecto es financiado colectivamente por trabajo fuera del entorno imediato. Varios de ellos trabajan en circos en varios paises del mundo y dicen ganar bien su vida. Así varios de ellos pueden ser de viaje un mes o dos por contratos con circos. Hacen compras de productos ecologicos en grandes cantidades, muchas veces directamente al productor. Tienen un huerto bien hecho y bien organizado que gestionan ellos mismos para obtener más independencia alimentaria. El proyecto no tiene existencia legal, ocupan terrenos del ayuntamiento del pueblo vecino.
+
+
 
 ## Arterra - Bizi Modu
 
@@ -31,7 +37,7 @@ Una comida en común esta organizada al medio día en el comedor principal. Esta
 
 ## Lakabe
 
-Lakabe es una ecoaldea relativamente antigua teniendo alrededor de 40 años de existencia. Conta 30 habitantes de los cuales solo 3 desde el inicio. Tiene una familia de 3 generaciones ya: la abuela que participó a la creación, que tubó una hija y esta hija teniendo varios hijos alrededor de 6 años durante nuestra visita. La comunidad tiene une escuela para los 9 niños del pueblo. Es un pueblo de casas de piedra y de madera en un estilo tipico de zonas montañosas. El lugar destaca una sensación de paz y de belleza a tener principalmente materiales naturales y siendo "terminado" y visiblemente cuidado.
+Lakabe es una ecoaldea relativamente antigua teniendo alrededor de 40 años de existencia. Fue construida sobre la base de un pueblo abandonado. Conta 30 habitantes de los cuales solo 3 desde el inicio. Tiene una familia de 3 generaciones ya: la abuela que participó a la creación, que tubó una hija y esta hija teniendo varios hijos alrededor de 6 años durante nuestra visita. La comunidad tiene une escuela para los 9 niños del pueblo. Es un pueblo de casas de piedra y de madera en un estilo tipico de zonas montañosas. El lugar destaca una sensación de paz y de belleza a tener principalmente materiales naturales y siendo "terminado" y visiblemente cuidado.
 
 Solo pasamos una tarde allí pero nos permitio visitar y hablar con unos habitantes. Les ayudemos a transportar balas de paja. Nos agradecieron mucho por la ayuda y así nos hicieron visitar el lugar y probar unas de las especialidades culinarias suyas: queso y pan casero excelantes (la comunidad tiene mucha fama por sus panes) y una bebida fermentada tipo champagne hecha con flores locales que le dan un sabor sutil y agradable. La ecoaldea tiene muchos animales: vacas, gallinas, cerdos, ovejas. Espacios de huertos tienen también, lo que les permite una autonomía alimentaria de 95\% y nos dicieron conseguir harinas y legumbres principalmente por trueque.
 
@@ -47,11 +53,11 @@ El agua viene de depositos grandes comprados que suben a la ecoaldea con los coc
 
 Tienen buenas relaciones con los habitantes de los dos pueblos cercanos de los cuales vienen todos. Varios de ellos suelen trabajar en el bar del pueblo o como forestal empleado por el ayuntamiento. La estrategía que tienen para conseguir la cesión del último dueño quieren terminar totalmente la primera casa para mostrar que son serios en la rehabilitación y que quieren cuidar bien a estas casas.
 
-Se organizan por varios circulos temiticos (huertos, construcción, etc.). Tienen contactos con las otras ecoaldeas de la zona, incluyendo el barrio Las Peñas (encuentros de ecoaldeas jovenes) con los cuales intercambian experiencia sobre la gobernanza.
+Se organizan por varios circulos tematicos (huertos, construcción, etc.). Tienen contactos con las otras ecoaldeas de la zona, incluyendo el barrio Las Peñas (encuentros de ecoaldeas jovenes) con los cuales intercambian experiencia sobre la gobernanza.
 
 ## Olla
 
-Olla es una ecoaldea joven también que nos fue presentada por las personas de Las Artiguillas. Pasamos una tarde allí acompañados por unas personas de Las Artiguillas. El sitio esta a unos 30 minutos de Valencia ciudad. Se acede por un camino de tierra de 10 minutos en coche. Una zona de barrancos pero más secos que Las Artiguillas y Las Peñas, con vistas sobre todo el valle. Las casas son de piedras también, la tierra es más roja que en los otros sitios. La primera cosa que llama la atención llegando en el sitio es la torre que domina el pueblo. Esta torre sería del 15 siglo y construida por los arabes. Ahora solo viven 3 personas (2 hombres, 1 mujer) pero acojen a muchos voluntariados con una casa dedicada como un dormitorio, para pasar varios días participando en las obras. Ayudamos allí a recoger tierra del sitio y quitarla las piedras para poder hacer una mezcla con cal para montar una pared para una casa.
+Olla es una ecoaldea joven también que nos fue presentada por las personas de Las Artiguillas. Pasamos una tarde allí acompañados por unas personas de Las Artiguillas. El sitio esta a unos 30 minutos de Valencia ciudad y se basa sobre un pueblo antiguo abandonado. Se acede por un camino de tierra de 10 minutos en coche. Una zona de barrancos pero más secos que Las Artiguillas y Las Peñas, con vistas sobre todo el valle. Las casas son de piedras también, la tierra es más roja que en los otros sitios. La primera cosa que llama la atención llegando en el sitio es la torre que domina el pueblo. Esta torre sería del 15 siglo y construida por los arabes. Ahora solo viven 3 personas (2 hombres, 1 mujer) pero acojen a muchos voluntariados con una casa dedicada como un dormitorio, para pasar varios días participando en las obras. Ayudamos allí a recoger tierra del sitio y quitarla las piedras para poder hacer una mezcla con cal para montar una pared para una casa.
 
 La mujer trabaja en Paterna como psicologua teurapeuta para jovenes. Tienen huerto y oí que experimentaron con la pisicultura en piscinas. La visión que tienen para el lugar es que mucho más personas se vengan a vivir en familias. Por falta de tiempo no tenemos mucho más información sobre esta ecoaldea.
 
