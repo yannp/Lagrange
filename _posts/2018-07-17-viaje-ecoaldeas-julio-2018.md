@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Viaje en ecoaldeas españolas en julio 2018"
+title: "Viaje en ecoaldeas en España en julio 2018"
 author: "Yann Plancqueel"
 categories: journal
 tags: [ecoaldeas]
 image: ecoaldeas/cover.jpg
 ---
-
-# Viaje en ecoaldeas en España - julio 2018
 
 ## Introduction
 
