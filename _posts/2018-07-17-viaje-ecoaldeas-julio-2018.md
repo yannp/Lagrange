@@ -59,8 +59,6 @@ Una comida en común esta organizada al medio día en el comedor principal. Esta
 
 [![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0516.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0516.jpg)
 
-[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0517.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0517.jpg)
-
 [![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0504.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0504.jpg)
 
 [![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0506.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0506.jpg)
