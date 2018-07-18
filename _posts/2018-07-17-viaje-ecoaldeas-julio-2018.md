@@ -9,7 +9,7 @@ image: ecoaldeas/cover9.jpg
 
 ## Introduction
 
-Fuimos Fernando y Yann, del 6 al 14 de julio 2018 a visitar ecoaldeas en España para 8 días, dormiendo en estas ecoaldeas. Las apuntas de viaje que siguen son el resultado de nuestras conversaciones con los habitantes de estos sitios y nuestras observaciones. Cuidado que no estaron comprobadas por estas ecoaldeas de ninguna forma y que podrían contenir aproximaciones o errores.
+Fuimos Fernando y Yann (que escribe esta lineas), del 6 al 14 de julio 2018 a visitar ecoaldeas en España para 8 días, dormiendo en estas ecoaldeas. Mis apuntas de viaje son el resultado de la observación y de las conversaciones con los habitantes de estas ecoaldeas. Cuidado que no estaron comprobadas por estas ecoaldeas de ninguna forma y que podrían contenir aproximaciones o errores.
 
 ## Barrio Las Peñas
 
