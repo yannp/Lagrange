@@ -15,12 +15,26 @@ Fuimos Fernando y Yann, del 6 al 14 de julio 2018 a visitar ecoaldeas en España
 
 Se encuentra al lado de Rubielos de Mora, por la zona de Olba. El proyecto empezó por enero 2017, esta compuesto ahora de 8 personas (5 hombres, 3 mujeres) con una edad media de 28 años. La ecoaldea es basada sobre un pueblo antiguo abandonado. El entorno de barranco con muchos arboles, junto a un rio que permite bañarse. Allí pasamos tres noches. El barrio contiene alrededor de 10 pequeñas casas de piedra con tejas tradicionales de barro para la cubertura y piedras para el suelo. Una primera casa fue rehabilitada y esta donde se hace la mayor parte de la vida hasta aquí. Una otra casa fue convertida en un taller para trabajar en buenas condiciones sobre las otras casas, una otra casa pequeña tiene un horno antiguo que se usa para confectionar panes, pizzas y bollerías. El plan que tienen es de rehabilitar todas las casas y de tener una casa en común con una cocina y comedor compartido para juntarse. El pueblo dispone también de una mesa exterior grande dondé comer fuera. Durante nuestra visita estaban instalando un tejado sobre unas de las casas más grandes del pueblo. 
 
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
-
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
-
 El agua viene de una fuente a unos cientos metros que llegua por mangueras y tienen muchas placas solares con baterías. Las decisiones se toman sin modelo aparente, un poco en caos, se habla hasta que una solución que convenga a todas o casi se imponga. Funciona pero probablemente perfectible. Mientras el invierno vivieron momentos dificiles por vivir los 7 personas en una sala única para dormir, cocinar y comer. El proyecto es financiado colectivamente por trabajo fuera del entorno imediato. Varios de ellos trabajan en circos en varios paises del mundo y dicen ganar bien su vida. Así varios de ellos pueden ser de viaje un mes o dos por contratos con circos. Hacen compras de productos ecologicos en grandes cantidades, muchas veces directamente al productor. Tienen un huerto bien hecho y bien organizado que gestionan ellos mismos para obtener más independencia alimentaria. El proyecto no tiene existencia legal, ocupan terrenos del ayuntamiento del pueblo vecino.
 
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0423.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0423.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0418.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0418.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0428.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0428.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0429.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0429.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0419.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0419.jpg)
+
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0420.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0420.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0461.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0461.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0427.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0427.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0426.jpg "Barrio Las Peñas")]({{site.url}}/assets/img/ecoaldeas/IMG_0426.jpg)
 
 
 ## Arterra - Bizi Modu
@@ -35,6 +49,26 @@ Unos de los objetivos de la comunidad es de acoger a proyectos empresariales dan
 
 Una comida en común esta organizada al medio día en el comedor principal. Esta comida es opcional, uno se puede apuntar del día al día. Muchas veces una sola persona prepara a comer para más o menos 30 personas. Tienen un sistema donde cada uno puede indicar sus preferencias: vegano, sin lactosa, etc. Los apartamientos son pequeños y equipados con una pequeña cocina y un baño. Las familias más grande juntan dos apartamientos para tener suficiente espacio.
 
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0556.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0556.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0517.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0517.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0513.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0513.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0512.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0512.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0516.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0516.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0517.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0517.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0504.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0504.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0506.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0506.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0502.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0502.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0507.jpg "Arterra - Bizi Modu")]({{site.url}}/assets/img/ecoaldeas/IMG_0507.jpg)
+
 ## Lakabe
 
 Lakabe es una ecoaldea relativamente antigua teniendo alrededor de 40 años de existencia. Fue construida sobre la base de un pueblo abandonado. Conta 30 habitantes de los cuales solo 3 desde el inicio. Tiene una familia de 3 generaciones ya: la abuela que participó a la creación, que tubó una hija y esta hija teniendo varios hijos alrededor de 6 años durante nuestra visita. La comunidad tiene une escuela para los 9 niños del pueblo. Es un pueblo de casas de piedra y de madera en un estilo tipico de zonas montañosas. El lugar destaca una sensación de paz y de belleza a tener principalmente materiales naturales y siendo "terminado" y visiblemente cuidado.
@@ -42,6 +76,20 @@ Lakabe es una ecoaldea relativamente antigua teniendo alrededor de 40 años de e
 Solo pasamos una tarde allí pero nos permitio visitar y hablar con unos habitantes. Les ayudemos a transportar balas de paja. Nos agradecieron mucho por la ayuda y así nos hicieron visitar el lugar y probar unas de las especialidades culinarias suyas: queso y pan casero excelantes (la comunidad tiene mucha fama por sus panes) y una bebida fermentada tipo champagne hecha con flores locales que le dan un sabor sutil y agradable. La ecoaldea tiene muchos animales: vacas, gallinas, cerdos, ovejas. Espacios de huertos tienen también, lo que les permite una autonomía alimentaria de 95\% y nos dicieron conseguir harinas y legumbres principalmente por trueque.
 
 Nos sorprendio aprender que todavía la comunidad no tiene estatuto legal y que ocupan terrenos que partenecen a Navarra. La región tolera el proyecto cada vez más con el tiempo hasta sostenerlo y fomentar proyectos parecidos de repoblación de pueblos abandonados en Navarra. También el gobierno local toma ventajas de mostrar este proyecto ejemplar a la unión europea que fomenta proyectos sostenibles de este tipo. El proyecto se goberna por asambleas de los habitantes, nos dicieron estar pensando en adoptar sociocracia.
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0534.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0534.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0535.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0535.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0536.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0536.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0539.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0539.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0540.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0540.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0546.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0546.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0550.jpg "Lakabe")]({{site.url}}/assets/img/ecoaldeas/IMG_0550.jpg)
 
 ## Las Artiguillas
 
@@ -55,19 +103,37 @@ Tienen buenas relaciones con los habitantes de los dos pueblos cercanos de los c
 
 Se organizan por varios circulos tematicos (huertos, construcción, etc.). Tienen contactos con las otras ecoaldeas de la zona, incluyendo el barrio Las Peñas (encuentros de ecoaldeas jovenes) con los cuales intercambian experiencia sobre la gobernanza.
 
+(desaforadamente se me olvidio sacar más fotos del sitio porque lo conocía ya. Es de aspecto parecido a Las Peñas)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0562.jpg "Las Artiguillas")]({{site.url}}/assets/img/ecoaldeas/IMG_0562.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0563.jpg "Las Artiguillas")]({{site.url}}/assets/img/ecoaldeas/IMG_0563.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0566.jpg "Las Artiguillas")]({{site.url}}/assets/img/ecoaldeas/IMG_0566.jpg)
+
 ## Olla
 
 Olla es una ecoaldea joven también que nos fue presentada por las personas de Las Artiguillas. Pasamos una tarde allí acompañados por unas personas de Las Artiguillas. El sitio esta a unos 30 minutos de Valencia ciudad y se basa sobre un pueblo antiguo abandonado. Se acede por un camino de tierra de 10 minutos en coche. Una zona de barrancos pero más secos que Las Artiguillas y Las Peñas, con vistas sobre todo el valle. Las casas son de piedras también, la tierra es más roja que en los otros sitios. La primera cosa que llama la atención llegando en el sitio es la torre que domina el pueblo. Esta torre sería del 15 siglo y construida por los arabes. Ahora solo viven 3 personas (2 hombres, 1 mujer) pero acojen a muchos voluntariados con una casa dedicada como un dormitorio, para pasar varios días participando en las obras. Ayudamos allí a recoger tierra del sitio y quitarla las piedras para poder hacer una mezcla con cal para montar una pared para una casa.
 
 La mujer trabaja en Paterna como psicologua teurapeuta para jovenes. Tienen huerto y oí que experimentaron con la pisicultura en piscinas. La visión que tienen para el lugar es que mucho más personas se vengan a vivir en familias. Por falta de tiempo no tenemos mucho más información sobre esta ecoaldea.
 
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0572.jpg "Olla")]({{site.url}}/assets/img/ecoaldeas/IMG_0572.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0574.jpg "Olla")]({{site.url}}/assets/img/ecoaldeas/IMG_0574.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0575.jpg "Olla")]({{site.url}}/assets/img/ecoaldeas/IMG_0575.jpg)
+
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0577.jpg "Olla")]({{site.url}}/assets/img/ecoaldeas/IMG_0577.jpg)
+
 ## Conclusión
 
-Ideas de cosas importantes en comunidad:
-* Escuela: atraje a muchas personas, paso así en Olba y en Hameau des Buis en Francia.
-* Transgeneracional: puede aportar riqueza y más resiliencia.
-* Actividades comerciales in situ: venta de frutas y verduras, pán, terapias variadas.
-* Un modelo de organización y toma de decisión solido.
+En conclusión, unas ideas de cosas importantes en comunidades:
+* Escuela: atraje a muchas personas, paso así en Olba en España y en Hameau des Buis en Francia.
+* Economia, intercambio local: venta de frutas y verduras, pán, terapias, actividades, talleres, etc.
+* Transgeneracional: puede aportar riqueza y más resiliencia pero puede producir más conflictos por intereses diferentes.
+* El modelo de organización y toma de decisión.
+* La articulación espacios privados / comunes.
+* Una visión en común.
 
-
+[![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0500.jpg "Viajar")]({{site.url}}/assets/img/ecoaldeas/IMG_0500.jpg)
 
