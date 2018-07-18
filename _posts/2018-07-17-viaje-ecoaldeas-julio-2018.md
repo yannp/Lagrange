@@ -128,12 +128,13 @@ La mujer trabaja en Paterna como psicologua teurapeuta para jovenes. Tienen huer
 ## Conclusión
 
 En conclusión, unas ideas de cosas importantes en comunidades:
-* Escuela: atraje a muchas personas, paso así en Olba en España y en Hameau des Buis en Francia.
+* Escuela: atraje a muchas personas, pasó así en Olba en España y en Hameau des Buis en Francia.
 * Economia, intercambio local: venta de frutas y verduras, pán, terapias, actividades, talleres, etc.
 * Transgeneracional: puede aportar riqueza y más resiliencia pero puede producir más conflictos por intereses diferentes.
 * El modelo de organización y toma de decisión.
 * La articulación espacios privados / comunes.
 * Una visión en común.
+* El aspecto legal.
 
 [![alt text]({{site.url}}/assets/img/ecoaldeas/IMG_0500.jpg "Viajar")]({{site.url}}/assets/img/ecoaldeas/IMG_0500.jpg)
 
